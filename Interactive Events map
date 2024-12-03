@@ -1,0 +1,82 @@
+import pandas as pd
+import geopandas as gpd
+import folium
+from folium.plugins import MarkerCluster
+
+# Load Natural Earth shapefile for country boundaries
+world_map = gpd.read_file("/content/ne_110m_admin_0_countries.shp")
+selected_countries = world_map[world_map['NAME'].isin(['Ukraine', 'Russia', 'Belarus'])]
+
+# Load conflict data
+file_path = "/content/russia_ukraine_conflict_data.csv"
+df = pd.read_csv(file_path)
+
+# Ensure fatalities are numeric, and filter out rows with missing data
+df['fatalities'] = pd.to_numeric(df['fatalities'], errors='coerce').fillna(0)
+df = df.dropna(subset=['latitude', 'longitude', 'event_type', 'actor1', 'notes'])
+
+# Filter data within Eastern Europe boundaries
+eastern_europe_bounds = {
+    'min_lat': 40.0,  # Minimum latitude
+    'max_lat': 60.0,  # Maximum latitude
+    'min_lon': 20.0,  # Minimum longitude
+    'max_lon': 60.0   # Maximum longitude
+}
+df = df[(df['latitude'] >= eastern_europe_bounds['min_lat']) &
+        (df['latitude'] <= eastern_europe_bounds['max_lat']) &
+        (df['longitude'] >= eastern_europe_bounds['min_lon']) &
+        (df['longitude'] <= eastern_europe_bounds['max_lon'])]
+
+# Convert to GeoDataFrame
+geometry = gpd.points_from_xy(df['longitude'], df['latitude'])
+gdf = gpd.GeoDataFrame(df, geometry=geometry, crs="EPSG:4326")
+
+# Initialize a folium map centered on Eastern Europe with OpenStreetMap
+m = folium.Map(location=[48.3794, 31.1656], zoom_start=5, tiles="OpenStreetMap")
+
+# Add boundaries for selected countries as a GeoJson overlay
+for _, country in selected_countries.iterrows():
+    folium.GeoJson(
+        country['geometry'],
+        name="Country Boundaries",
+        style_function=lambda x: {'color': 'black', 'weight': 1}
+    ).add_to(m)
+
+# Define a color palette for event types
+colors = ['red', 'blue', 'green', 'purple', 'orange', 'darkred', 'lightblue', 'darkgreen', 'lightgray']
+color_map = {event_type: colors[i % len(colors)] for i, event_type in enumerate(df['event_type'].unique())}
+
+# Plot each event type with a different marker cluster and color
+event_types = df['event_type'].unique()
+for event_type in event_types:
+    # Create a FeatureGroup for each event type
+    event_group = folium.FeatureGroup(name=event_type).add_to(m)
+
+    # Filter data for the current event type
+    subset = gdf[gdf['event_type'] == event_type]
+
+    # Add each event as a CircleMarker with custom popup and tooltip
+    for _, row in subset.iterrows():
+        popup_text = (f"Fatalities: {row['fatalities']}<br>"
+                      f"Type: {row['event_type']}<br>"
+                      f"Actor: {row['actor1']}<br>"
+                      f"Notes: {row['notes']}")
+
+        folium.CircleMarker(
+            location=(row['latitude'], row['longitude']),
+            radius=max(row['fatalities'] * 0.1, 2),  # Scale by fatalities with a minimum size
+            color=color_map[event_type],  # Unique color for each event type
+            fill=True,
+            fill_color=color_map[event_type],
+            fill_opacity=0.6,
+            popup=folium.Popup(popup_text, max_width=300),
+            tooltip=f"Actor: {row['actor1']}"  # Tooltip shows actor
+        ).add_to(event_group)
+
+# Add LayerControl to toggle between event types and base maps
+folium.LayerControl(collapsed=False).add_to(m)
+
+# Display the map
+m
+# Save the map to an HTML file
+m.save("/content/conflict_events_map_ee.html")
