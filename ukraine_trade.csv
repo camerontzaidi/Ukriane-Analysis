@@ -1,0 +1,324 @@
+Recipient,Supplier,Year of order, ,Number ordered, ,Weapon designation,Weapon description,Number delivered, ,Year(s) of delivery,status,Comments,SIPRI TIV per unit,SIPRI TIV for total order,SIPRI TIV of delivered weapons
+Ukraine,Germany,2022,,14,,PzH-2000 155mm,self-propelled gun,14,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.8,25.2,25.2
+Ukraine,Germany,2022,,50,,Dingo-2,APC,50,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.14,7,7
+Ukraine,Czechia,2022,,20,?,RM-70 Vampire 122mm,self-propelled MRL,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.38,7.6,7.6
+Ukraine,Lithuania,2022,,18,?,M-101A1 105mm,towed gun,18,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.18,3.24,3.24
+Ukraine,Norway,2023,,100,?,IRIS-T,BVRAAM,100,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for IRIS-T SAM systems,0.08,8,8
+Ukraine,Denmark,2022,,54,,M-113A3,APC,54,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,6.48,6.48
+Ukraine,Denmark,2022,,20,?,K-6 120mm,mortar,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,2,2
+Ukraine,Estonia,2022,,30,,M/41D 120mm,mortar,30,,2022,Second hand,Second-hand; aid,0.1,3,3
+Ukraine,Estonia,2022,?,31,?,D-30 122mm,towed gun,31,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.14,4.34,4.34
+Ukraine,United States,2022,,24,?,TPQ-36 Firefinder,artillery locating radar,24,?,2023,New,Aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as 'counter-artillery radar'),3,72,72
+Ukraine,Germany,2022,,255,?,Vulcano-GLR,guided shell,255,?,2023,New,Aid after 2022 Russian invasion of Ukraine,0.04,10.2,10.2
+Ukraine,Latvia,2022,,2,,Mi-2,light helicopter,2,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,0.88,0.88
+Ukraine,United States,2022,,20000,?,GMLRS,guided rocket,19500,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,640,624
+Ukraine,Latvia,2022,,6,,M-109A5 155mm,self-propelled gun,6,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-109A5Oe version,0.5,3,3
+Ukraine,Italy,2022,,11,,MLS Shield,APC,11,,2022,New,,0.3,3.3,3.3
+Ukraine,United States,2022,,30,?,ScanEagle,UAV,30,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,0.48,0.48
+Ukraine,Slovakia,2023,,13,?,MiG-29S,FGA aircraft,13,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine (partly financed by EU); incl 11 MiG-29AS (incl 2 MiG-29UBS combat/trainer) and 2 MiG-29S versions,11.4,148.2,148.2
+Ukraine,United States,2022,,72,,L-118 105mm,towed gun,72,,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-119 version,0.24,17.28,17.28
+Ukraine,Germany,2023,,120,,IRIS-T,BVRAAM,120,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for IRIS-T SAM launchers,0.08,9.6,9.6
+Ukraine,North Macedonia,2022,,4,?,Su-25,ground attack aircraft,4,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 1 Su-25UB combat/trainer version,4.6,18.4,18.4
+Ukraine,Netherlands,2022,,10,?,Harpoon Block-2,anti-ship missile/SSM,10,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,4,4
+Ukraine,United Kingdom,2022,,800,?,Brimstone,ASM,800,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for use from land-based launchers,0.06,48,48
+Ukraine,Spain,2023,,5,,Harpoon Block-2,anti-ship missile/SSM,5,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,2,2
+Ukraine,Norway,2023,,3,,ARTHUR,artillery locating radar,3,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.6,4.8,4.8
+Ukraine,Germany,2022,?,175,?,MIM-104 PAC-2,SAM,175,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,70,70
+Ukraine,Slovenia,2022,,35,,M-80,IFV,35,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.36,12.6,12.6
+Ukraine,Sweden,2023,,25,?,AIM-120A AMRAAM,BVRAAM,25,?,2023,Second hand,Second-hand; financed by US aid,0.16,4,4
+Ukraine,Lithuania,2022,,30,?,2B11 120mm,mortar,30,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as '120mm mortar'),0.1,3,3
+Ukraine,Turkiye,2022,,7,?,Bayraktar TB2,armed UAV,7,?,2022,New,Aid after 2022 Russian invasion of Ukraine; originally to be funded by Lithuanian; Polish and Ukrainian private aid but instead donated by producer,2.4,16.8,16.8
+Ukraine,Czechia,2022,,435,,Strela-2,portable SAM,435,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,6.96,6.96
+Ukraine,Poland,2019,,24,,Dozor-B,APC/APV,24,?,2020; 2021,New,Assembled in Ukraine,0.15,3.6,3.6
+Ukraine,Norway,2022,,14,,LMV,APV,14,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.06,0.84,0.84
+Ukraine,Estonia,2022,,250,?,FGM-148 Javelin,anti-tank missile,250,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.01,3,3
+Ukraine,United States,2022,,1000,?,Switchblade-600,loitering munition,1000,?,2023,New,Aid after 2022 Russian invasion of Ukraine,0.15,150,150
+Ukraine,Estonia,2022,,7,,Mamba,APC/APV,7,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.06,0.42,0.42
+Ukraine,Netherlands,2023,,5,,BrPz-1 Biber,armoured bridgelayer,5,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,2,2
+Ukraine,North Macedonia,2022,,30,?,T-72M1,tank,30,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.04,31.2,31.2
+Ukraine,Germany,2022,,12,,IRIS-T SL,SAM system,3,?,2022; 2023,New,Aid after 2022 Russian invasion of Ukraine; delivery planned 2022-2024,17.5,210,52.5
+Ukraine,Croatia,2022,?,10,?,RAK-12,towed MRL,10,?,2023,Second hand,Probably second-hand; probably aid after 2022 Russian invasion of Ukraine,0.03,0.28,0.28
+Ukraine,United States,2022,,11,,vehicle engine,vehicle engine,11,,2022,New,Cummins-6.7L (360hp) diesel engine for 11 MLS Shield APC from Italy,0.05,0.55,0.55
+Ukraine,Croatia,2022,,15,?,M-46 130mm,towed gun,15,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.26,3.9,3.9
+Ukraine,United States,2022,,12,,Avenger,mobile SAM system,12,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.25,3.02,3.02
+Ukraine,Slovakia,2022,,1,,Mi-2,light helicopter,1,,2022,Second hand,Second-hand; financed by EU aid after 2022 Russian invasion of Ukraine,0.44,0.44,0.44
+Ukraine,Poland,2022,,1000,?,Piorun,portable SAM,1000,?,2022,New,Aid after 2022 Russian invasion of Ukraine,0.08,80,80
+Ukraine,United Kingdom,2023,,50,?,Storm Shadow/SCALP-EG,ASM,50,?,2023,Second hand,Probably second-hand; aid after 2022 Russian invasion of Ukraine,0.26,12.8,12.8
+Ukraine,Sweden,2023,,25,?,RBS-70,portable SAM,25,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,0.8,0.8
+Ukraine,Germany,2022,,54,?,vehicle engine,vehicle engine,5,?,2022,New,MTU MT-881 Ka-500 (1000hp) diesel engine for 54 Krab self-propelled guns from Poland; possibly from South Korean production line,0.16,8.64,0.8
+Ukraine,United States,2022,?,189,,Piranha-3,APC,189,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Stryker version,0.14,26.46,26.46
+Ukraine,Norway,2023,,2,,NASAMS-2,SAM system,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,6,12,12
+Ukraine,Czechia,2022,?,19,,vehicle engine,vehicle engine,19,,2023,New,Tatra T-3D (410hp) diesel engine for 19 CAESAR self-propelled guns from France; originally ordered by Denmark but supplied to Ukraine after 2022 Russian invasion of Ukraine; financed by aid from Denmark,0.08,1.52,1.52
+Ukraine,United States,2023,,300,?,MIM-104 PAC-3,ABM missile,300,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.32,96,96
+Ukraine,South Korea,2022,,54,,K-9,self-propelled gun chassis,5,?,2022,New,Chassis for 54 Krab self-propelled guns from Poland; from Polish production line,0.59,31.86,2.95
+Ukraine,Italy,2022,,2,,M-270 MLRS 227mm,self-propelled MRL,2,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.48,0.96,0.96
+Ukraine,Czechia,2023,,1,,RM-70 122mm,self-propelled MRL,1,,2023,Second hand,Second-hand; financed with donations from Czech private persons,0.36,0.36,0.36
+Ukraine,Czechia,2022,,4,?,Mi-24V/Mi-35,combat helicopter,4,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,3.4,13.6,13.6
+Ukraine,United Kingdom,2023,,10,,Bronco,APC,10,,2023,Second hand,Second-hand; financed by German aid; Warthog ambulance version,0.12,1.2,1.2
+Ukraine,Netherlands,2022,?,40,?,MIM-104 PAC-2,SAM,40,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; version uncertain (reported as 'Patriot missiles'),0.4,16,16
+Ukraine,United States,2022,,4,,MPQ-64 Sentinel,air search radar,4,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,2,8,8
+Ukraine,United Kingdom,2022,?,14,,Challenger-2,tank,14,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.7,23.8,23.8
+Ukraine,Croatia,2022,,11,,Mi-17,transport helicopter,11,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Mi-8MTV-1 version,2.9,31.9,31.9
+Ukraine,Germany,2023,,42,,BPz-2,ARV,16,,2023,Second hand but modernized,Second-hand but modernixed to Wisent-1 MCT AEV version; aid after 2022 Russian invasion of Ukraine,0.92,38.81,14.78
+Ukraine,Germany,2023,?,10,?,Eagle,APV,10,?,2023,Second hand,Eagle-1 version; second-hand; supplier uncertain; probably from Germany,0.06,0.56,0.56
+Ukraine,Norway,2023,,5,?,Dingo-2,APC,5,?,2023,Second hand but modernized,Second-hand but modernized to Dingo CORTEX Typhon version,0.23,1.16,1.16
+Ukraine,Norway,2022,,23,,M-109A1 155mm,self-propelled gun,23,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-109A3GN version,0.44,10.12,10.12
+Ukraine,Norway,2023,,2,,NASAMS-2,SAM system,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,6,12,12
+Ukraine,Spain,2022,,8,,Model-56 105mm,towed gun,8,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.18,1.44,1.44
+Ukraine,Denmark,2022,,20,?,Harpoon Block-2,anti-ship missile/SSM,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,8,8
+Ukraine,Denmark,2022,,1,?,HCDS,coastal defence system,1,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,4,4,4
+Ukraine,Spain,2022,,60,,M-113,APC,60,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,6,6
+Ukraine,Czechia,2022,,645,,Konkurs,anti-tank missile,645,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as 'anti-tank missiles'),0.01,5.16,5.16
+Ukraine,United States,2022,,142,,UFH/M-777 155mm,towed gun,142,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-777A2 version,0.4,56.8,56.8
+Ukraine,United Kingdom,2022,,6,,Stormer HVM,mobile SAM system,6,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.8,4.8,4.8
+Ukraine,Czechia,2022,,12,,BM-21 Grad 122mm,self-propelled MRL,12,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; BVP-1 version,0.24,2.88,2.88
+Ukraine,Germany,2022,,294,?,GMLRS,guided rocket,294,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for MLRS MRL,0.03,9.41,9.41
+Ukraine,Czechia,2022,,20,?,T-72M1,tank,20,?,2022,Second hand but modernized,Second-hand but modernized before delivery; aid after 2022 Russian invasions of Ukraine,1.72,34.32,34.32
+Ukraine,United States,2022,,300,?,WGU-59 APKWS,ASM,300,?,2023,New,Aid after 2022 Russian invasion of Ukraine,0.01,3,3
+Ukraine,United Kingdom,2022,,20,?,MXT-MV,APV,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Husky version,0.06,1.28,1.28
+Ukraine,Netherlands,2022,,226,?,AIFV-APC,APC,226,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; YPR-765 version,0.12,27.12,27.12
+Ukraine,Slovakia,2022,,100,?,Igla,portable SAM,100,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as 'air-defence missiles'),0.03,3.2,3.2
+Ukraine,Spain,2022,,25,?,Aspide,BVRAAM/SAM,25,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Spada SAM system,0.07,1.8,1.8
+Ukraine,France,2022,,50,?,Mistral,portable SAM,50,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.04,1.8,1.8
+Ukraine,Portugal,2022,,47,?,M-113,APC,47,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,4.7,4.7
+Ukraine,Germany,2022,,1,?,COBRA,artillery locating radar,1,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,4,4,4
+Ukraine,United Kingdom,2022,?,100,?,FV-432,APC,100,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,12,12
+Ukraine,United States,2022,,100,,BATT,APC,100,?,2022; 2023,New,$23 m deal,0.16,16,16
+Ukraine,France,2022,,1,,SAMP/T,ABM/SAM system,1,,2023,Second hand,Probably second-hand; aid after 2022 Russian invasion of Ukraine (in cooperation with Italy; incl delivery of launchers from Italy),22,22,22
+Ukraine,Spain,2022,,1,,RG-31 Nyala,APC,1,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; ambulance version,0.07,0.07,0.07
+Ukraine,Poland,2022,,270,?,T-72M1,tank,270,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl T-72M1R version,1.04,280.8,280.8
+Ukraine,Portugal,2022,,4,,VM-90P,APC,4,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-40.12WM/P version,0.04,0.18,0.18
+Ukraine,Canada,2023,,288,,AIM-7M Sparrow,BVRAAM,288,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for SAM systems,0.07,20.74,20.74
+Ukraine,United States,2023,?,1,?,S-70 Black Hawk,transport helicopter,1,?,2023,Second hand,Second-hand; UH-60A version,2.6,2.6,2.6
+Ukraine,United States,2022,?,31,,M-1A1 Abrams,tank,31,,2023,Second hand,Second-hand; aid after 2002 Russian invasion of Ukraine,1.6,49.6,49.6
+Ukraine,Netherlands,2022,,2,,SQUIRE,ground surv radar,2,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.2,0.4,0.4
+Ukraine,United States,2018,,210,?,FGM-148 Javelin,anti-tank missile,210,?,2018,New,Probably second-hand,0.03,6.3,6.3
+Ukraine,Sweden,2022,,50,?,AGM-114 Hellfire,anti-tank missile,50,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Rb-17 (AGM-114C) version for coastal defence,0.02,0.8,0.8
+Ukraine,Latvia,2022,,12,?,Stinger,portable SAM,12,?,2022,Second hand,Second-hand; aid,0.03,0.38,0.38
+Ukraine,Germany,2022,?,18,,Leopard-2A6,tank,18,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,2,36,36
+Ukraine,United States,2023,,38,,UFH/M-777 155mm,towed gun,38,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as '155mm Howitzers'),0.4,15.2,15.2
+Ukraine,Netherlands,2022,,5,,TPQ-36 Firefinder,artillery locating radar,5,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.2,6,6
+Ukraine,United Kingdom,2022,,33,?,FV-432,APC,33,?,2023,Second hand,Second-hand; financed with private donations,0.12,3.96,3.96
+Ukraine,France,2022,,30,?,AMX-10RC,armoured car,30,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; AMX-10RCR version,0.48,14.4,14.4
+Ukraine,Poland,2023,,14,?,MiG-29S,FGA aircraft,14,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,11.4,159.6,159.6
+Ukraine,Poland,2022,?,14,?,Leopard-2A4,tank,14,,2023,Second hand,Second-hand; aid 2022 Russian invasion of Ukraine,1.6,22.4,22.4
+Ukraine,Netherlands,2022,?,8,,PzH-2000 155mm,self-propelled gun,8,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.8,14.4,14.4
+Ukraine,France,2023,,1,?,Ground Master-200,air search radar,1,?,2023,New,,10,10,10
+Ukraine,United Kingdom,2022,,200,?,FGM-148 Javelin,anti-tank missile,200,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.01,2.4,2.4
+Ukraine,Netherlands,2022,,10,?,MO-120-RT 120mm,mortar,10,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,1.2,1.2
+Ukraine,Australia,2022,,6,,UFH/M-777 155mm,towed gun,6,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,2.4,2.4
+Ukraine,Canada,2022,,50,?,M-982 Excalibur,guided shell,50,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,0.8,0.8
+Ukraine,United States,2022,,18,,M-109A6 155mm Paladin,self-propelled gun,18,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.54,9.72,9.72
+Ukraine,France,2022,,704,?,MILAN,anti-tank missile,704,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,2.82,2.82
+Ukraine,United States,2022,,19,?,TPQ-36 Firefinder,artillery locating radar,19,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.2,22.8,22.8
+Ukraine,Slovakia,2022,,45,?,5V55U,SAM,45,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for S-300 SAM system,0.4,18,18
+Ukraine,United States,2022,,2150,?,Stinger,portable SAM,2050,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl for Avenger SAM systems,0.03,68.8,65.6
+Ukraine,Belgium,2022,,136,,M-113,APC,136,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; financed by UK aid,0.1,13.6,13.6
+Ukraine,United States,2022,?,20,,Mi-17,transport helicopter,20,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl Mi-17V-5 and Mi-8MTV versions,2.9,58,58
+Ukraine,United States,2019,,150,?,FGM-148 Javelin,anti-tank missile,150,?,2020,New,,0.03,4.5,4.5
+Ukraine,United Kingdom,2022,,6900,?,NLAW,anti-tank missile,6900,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,27.6,27.6
+Ukraine,Slovakia,2022,,1,,S-300PMU,SAM system,1,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,18,18,18
+Ukraine,Turkiye,2020,?,,?,Bayraktar TB2,armed UAV,60,?,2022,New,Bayraktar TB2 version; incl production under licence in Ukraine,2.4,0,144
+Ukraine,United States,2021,,300,?,FGM-148 Javelin,anti-tank missile,300,?,2022,New,Part of $200 m aid; delivery planned 2022,0.03,9,9
+Ukraine,United States,2022,,186,?,M-2A3 Bradley,IFV,186,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; ODS-SA version,0.72,133.92,133.92
+Ukraine,Netherlands,2023,,8,?,Fennek,reconnaissance AV,8,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,0.96,0.96
+Ukraine,United Kingdom,2022,?,32,,AS-90B Mallet 155mm,self-propelled gun,32,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.8,25.6,25.6
+Ukraine,Turkiye,2018,,12,?,Bayraktar TB2,armed UAV,12,?,2019; 2021,New,$69 m deal; Bayraktar TB2 version,2.4,28.8,28.8
+Ukraine,France,2022,?,19,,CAESAR 155mm,self-propelled gun,19,,2023,New,CAESAR-2 version; originally ordered by Denmark but supplied to Ukraine after 2022 Russian invasion of Ukraine; financed by aid from Denmark,1.07,20.33,20.33
+Ukraine,United States,2021,,180,,FGM-148 Javelin,anti-tank missile,180,,2021,New,Aid; delivery also incl 30 launchers,0.03,5.4,5.4
+Ukraine,Estonia,2021,,9,?,D-30 122mm,towed gun,9,?,2022,Second hand,Second-hand; aid,0.14,1.26,1.26
+Ukraine,Poland,2022,,20,?,PT-91M,tank,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.28,25.6,25.6
+Ukraine,Poland,2023,,30,?,PT-91M,tank,30,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.28,38.4,38.4
+Ukraine,Luxembourg,2022,,100,,NLAW,anti-tank missile,100,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,0.4,0.4
+Ukraine,Germany,2022,,500,,Stinger,portable SAM,500,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,16,16
+Ukraine,Czechia,2023,,120,?,3M9,SAM,120,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Kvadrat SAM system,0.05,5.76,5.76
+Ukraine,Norway,2022,?,8,?,Leopard-2A4,tank,8,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.6,12.8,12.8
+Ukraine,Norway,2023,,4,,BPz-2,ARV,4,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 2 NM-189 version,0.56,2.24,2.24
+Ukraine,Netherlands,2022,,15,?,AIM-120B AMRAAM,BVRAAM,15,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.16,2.4,2.4
+Ukraine,Canada,2022,,13,,Gurkha,APV,11,?,2023,New,Financed with private donations; ambulance version,0.16,2.08,1.76
+Ukraine,United Kingdom,2022,,2,?,ARTHUR,artillery locating radar,2,?,2022,Second hand,Second-hand; part of GBP300 m aid after 2022 Russian invasion of Ukraine,1.6,3.2,3.2
+Ukraine,Germany,2022,,67,,Gepard,self-propelled AA gun,52,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,3.6,241.2,187.2
+Ukraine,France,2022,,10,,MO-120-RT 120mm,mortar,10,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as '120mm mortar'),0.12,1.2,1.2
+Ukraine,Sweden,2023,?,1,?,Giraffe-75,air search radar,1,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.6,1.6,1.6
+Ukraine,Canada,2022,,800,?,Senator,APC/APV,800,?,2022; 2023,New,Aid after 2022 Russian invasion of Ukraine; incl 190 financed by USA and rest financed by unidentified other states,0.14,112,112
+Ukraine,Romania,2022,,20,?,TAB-71,APC,20,?,2022; 2023,Second hand,Second-hand; TAB-71M version,0.1,2,2
+Ukraine,Canada,2022,,208,,Senator,APC/APV,208,,2022; 2023,New,Aid after 2022 Russian invasion of Ukraine,0.14,29.12,29.12
+Ukraine,Slovakia,2022,,30,,BMP-1,IFV,30,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; BVP-1 version,0.36,10.8,10.8
+Ukraine,Canada,2022,?,8,,Leopard-2A4,tank,8,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.6,12.8,12.8
+Ukraine,France,2018,,12,,H725 Caracal,transport helicopter,12,?,2018; 2019; 2021; 2022,Second hand,Second-hand (but modernized before delivery in Romania); part of EUR555 m deal; H225 version,3.2,38.4,38.4
+Ukraine,Canada,2023,,43,,AIM-9M Sidewinder,SRAAM,43,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; probably for NASAMS SAM systems,0.05,2.06,2.06
+Ukraine,Portugal,2023,,3,,Leopard-2A6,tank,3,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,2,6,6
+Ukraine,Germany,2022,,26,,BrPz-1 Biber,armoured bridgelayer,14,,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; delivery planned 2022-2024,0.4,10.4,5.6
+Ukraine,Germany,2023,,110,,Leopard-1A5,tank,30,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; financed by Denmark; Germany and Netherlands aid,1.04,114.4,31.2
+Ukraine,United States,2023,,150,?,MIM-104 PAC-2,SAM,150,?,2023,Second hand,Second-hand; incl Patriot GEM; GEM-C; GEM-T version; aid after 2022 Russian invasion of Ukraine,0.4,60,60
+Ukraine,Poland,2022,,18,,Krab 155mm,self-propelled gun,18,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.8,32.4,32.4
+Ukraine,Norway,2022,,100,?,Mistral,portable SAM,100,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.04,3.6,3.6
+Ukraine,Poland,2023,,10,?,Mi-24V/Mi-35,combat helicopter,10,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,3.4,34,34
+Ukraine,Czechia,2022,,24,?,vehicle engine,vehicle engine,10,?,2022; 2023,New,Tatra T-3D-928-70 (436hp) diesel engine for 24 Zuzana-2 self-propelled guns from Slovakia,0.08,1.92,0.8
+Ukraine,France,2020,,20,,FPB-98,patrol craft,8,?,2023,New,EUR137 m deal (incl 5 years support; 85% financed with French loans); for border guard; FPB-98 Mk-1 version; incl 5 produced under licence in Ukraine,6.5,130,52
+Ukraine,Belgium,2023,,40,?,M-113,APC,40,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; financed by Belgium; Luxemburg and Netherlands aid,0.1,4,4
+Ukraine,United States,2019,?,3,,Island,patrol craft,3,?,2021,Second hand,Second-hand; aid,3.68,11.04,11.04
+Ukraine,United States,2015,,15,?,TPQ-36 Firefinder,artillery locating radar,15,?,2015; 2016; 2017; 2018; 2019; 2021,Second hand,Second-hand; 'Ukraine Security Assistance Initiative' aid,1.2,18,18
+Ukraine,United Kingdom,2022,,60,?,L-118 105mm,towed gun,60,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; L-119 version,0.24,14.4,14.4
+Ukraine,Slovenia,2023,,20,,Pandur,APC,20,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,2.4,2.4
+Ukraine,Netherlands,2022,,200,,Stinger,portable SAM,200,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,6.4,6.4
+Ukraine,United Kingdom,2021,?,2,,Sandown,minehunter,2,,2022,Second hand,Second-hand,18,36,36
+Ukraine,United States,2022,,11000,?,BGM-71 TOW,anti-tank missile,10500,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl for M-2 IFV,0,44,42
+Ukraine,United States,2023,,1,?,M-1150 ABV,AEV,1,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1,1,1
+Ukraine,Czechia,2022,,26,?,DANA 152mm,self-propelled gun,26,?,2022; 2023,Second hand but modernized,Second-hand but modernized before delivery; aid after 2022 Russian invasion of Ukraine; Dana M-2 version or incl Dana M-2 version,0.66,17.16,17.16
+Ukraine,Spain,2022,?,10,,Leopard-2A4,tank,10,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.6,16,16
+Ukraine,Estonia,2022,,50,?,MILAN,anti-tank missile,50,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,0.2,0.2
+Ukraine,Czechia,2018,,40,,2S1 122mm,self-propelled gun,40,,2018,Second hand,Second-hand,0.36,14.4,14.4
+Ukraine,Germany,2022,?,2,,Buffel,ARV,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.9,1.8,1.8
+Ukraine,Netherlands,2022,,10,?,BvS-10,APC,10,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,1,1
+Ukraine,United States,2015,,50,?,HMMWV-UA,APV,50,,2015; 2021,Second hand,Second-hand; 'Ukrainian Security Assistance Initiative' aid; M-1114 and M-1151 versions,0.05,2.6,2.6
+Ukraine,Germany,2023,,2,,Patriot Configuration-3,SAM system,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,22,44,44
+Ukraine,Poland,2018,?,54,?,MT-LB,APC,54,?,2018; 2019,Second hand,Second-hand,0.1,5.4,5.4
+Ukraine,Czechia,2019,,16,,2S1 122mm,self-propelled gun,16,,2019,Second hand,Second-hand,0.36,5.76,5.76
+Ukraine,Sweden,2023,,10,,Leopard-2A5,tank,10,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Strv-122 version,1.8,18,18
+Ukraine,Sweden,2023,,50,,CV-90,IFV,50,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; CV-9040C version,0.6,30,30
+Ukraine,Italy,2022,,100,?,ASTER-30,SAM,100,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; ASTER-30 Block-1 version; for SAMP/T SAM system delivered by France in cooperation with Italy,0.4,40,40
+Ukraine,Germany,2022,,100,?,DM-702 SMART-155,guided shell,100,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,1.6,1.6
+Ukraine,Canada,2023,,12,,AIM-120C AMRAAM,BVRAAM,12,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for NASAMS SAM systems,0.24,2.88,2.88
+Ukraine,Belgium,2023,,25,?,Mistral,portable SAM,25,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.04,0.9,0.9
+Ukraine,Belgium,2022,?,15,,AIM-120B AMRAAM,BVRAAM,15,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for NASAMS SAM systems,0.16,2.4,2.4
+Ukraine,Belgium,2022,?,50,?,MILAN,anti-tank missile,50,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,0.2,0.2
+Ukraine,Belgium,2023,,80,,LMV,APV,80,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.06,4.8,4.8
+Ukraine,Belgium,2022,,4,,MO-120-RT 120mm,mortar,4,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,0.48,0.48
+Ukraine,United States,2023,,4,,M-2A3 Bradley,IFV,4,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-7A2 FISTV reconnaissance version,0.72,2.88,2.88
+Ukraine,United States,2023,,,,ATACMS Block-1,SSM,20,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for use with HIMARS multiple rocket launchers,0.56,0,11.2
+Ukraine,Czechia,2014,,50,?,BMP-1,IFV,50,?,2018,Second hand but modernized,Second-hand but modernized to BMP-1AK before delivery; ordered and delivered via Polish company,0.59,29.7,29.7
+Ukraine,United States,2022,,100,?,MIM-23B HAWK,SAM,100,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.07,6.8,6.8
+Ukraine,United States,2023,,55,?,M-ATV,APV,55,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,5.5,5.5
+Ukraine,United Kingdom,2022,,10,?,Pinzgauer 6x6,APC,10,?,2022,Second hand,Second-hand; financed with private donations as aid after 2022 Russian invasion of Ukraine,0.06,0.64,0.64
+Ukraine,Finland,2023,,3,,HMBV,AEV,3,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1,3,3
+Ukraine,Czechia,2019,,37,,BMP-1,IFV,37,,2020,Second hand,Second-hand; BVP-1 version,0.36,13.32,13.32
+Ukraine,Lithuania,2022,,72,,M-113,APC,72,,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl M-577 command post and probably mortar carrier and artillery observation/command versions,0.1,7.2,7.2
+Ukraine,Germany,2022,,2700,?,Strela-2,portable SAM,2700,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,43.2,43.2
+Ukraine,Canada,2022,,4,,UFH/M-777 155mm,towed gun,4,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,1.6,1.6
+Ukraine,UAE,2015,?,6,,Shrek,APC,6,,2015,New,,0.2,1.2,1.2
+Ukraine,UAE,2015,,31,,Spartan,APC/APV,31,,2015,New,,0.16,4.96,4.96
+Ukraine,UAE,2015,?,10,,Cougar,APV,10,,2015,New,,0.14,1.4,1.4
+Ukraine,United States,2023,,,,Penguin,UAV,5,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,0,0.1
+Ukraine,Canada,2023,,1,,Buffel,ARV,1,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.9,0.9,0.9
+Ukraine,United States,2023,,1,,I-HAWK,SAM system,1,?,2023,Second hand,Second-hand; aid,15,15,15
+Ukraine,Germany,2023,,8,,AIM-7E Sparrow,BVRAAM,8,,2023,Second hand,RIM-7 Sea Sparrow (SAM) version; financed by Belgian aid,0.06,0.48,0.48
+Ukraine,Poland,2017,,100,?,Warmate,loitering munition,100,?,2018,New,,0.06,6,6
+Ukraine,France,2023,,12,,CAESAR 155mm,self-propelled gun,12,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,5.28,5.28
+Ukraine,Germany,2022,,16,?,BPz-2,ARV,15,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.56,8.96,8.4
+Ukraine,Greece,2022,,40,,BMP-1,IFV,40,,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.36,14.4,14.4
+Ukraine,Slovenia,2022,,28,,M-55S,tank,28,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.9,25.2,25.2
+Ukraine,United States,2018,,2,,Island,patrol craft,2,,2018,Second hand,Second-hand; aid; Ukrainian designation Slavyansk,3.68,7.36,7.36
+Ukraine,United States,2023,,600,?,AIM-9M Sidewinder,SRAAM,600,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Ukrainian SAM systems,0.05,28.8,28.8
+Ukraine,Latvia,2022,,10,?,Penguin,UAV,10,?,2022,New,UAH651m ($17.5 m) deal; Penguin-C Mk-2 version,0.05,0.5,0.5
+Ukraine,Czechia,2022,,6,,One 150,UAV,6,,2022,New,Financed by aid from Luxemburg after 2022 Russian invasion of Ukraine,0.2,1.2,1.2
+Ukraine,United States,2023,,8,,M-88A2 HERCULES,ARV,8,,2023,Second hand,Probably second-hand; aid after 2022 Russian invasion of Ukraine,0.8,6.4,6.4
+Ukraine,United Kingdom,2014,,75,,AT-105 Saxon,APC,75,,2015,Second hand,Second-hand; GBP3.8 m deal,0.08,6,6
+Ukraine,Italy,2022,,6,,PzH-2000 155mm,self-propelled gun,6,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.8,10.8,10.8
+Ukraine,United Kingdom,2022,,90,?,Brimstone,ASM,90,?,2022,New,Maritime Brimstone version; aid after 2022 Russian invasion of Ukraine,0.15,13.5,13.5
+Ukraine,Australia,2022,,120,,Bushmaster,APC,120,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 2 ambulance version,0.14,16.8,16.8
+Ukraine,Lithuania,2021,,1,,L-39Z Albatros,trainer/combat aircraft,1,,2021,Second hand,Second-hand; aid; L-39ZA version,2,2,2
+Ukraine,Lithuania,2022,?,2,,Mi-17,transport helicopter,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Mi-8 version,2.9,5.8,5.8
+Ukraine,Estonia,2022,,24,?,FH-70 155mm,towed gun,24,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,9.6,9.6
+Ukraine,Sweden,2023,,90,?,NLAW,anti-tank missile,90,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0,0.36,0.36
+Ukraine,Italy,2023,,75,?,Aspide,BVRAAM/SAM,75,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Spada-2000 SAM,0.07,5.4,5.4
+Ukraine,Italy,2023,,1,,Spada-2000,SAM system,1,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,6.4,6.4,6.4
+Ukraine,United States,2022,,19,,M-142 HIMARS,self-propelled MRL,19,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,8.36,8.36
+Ukraine,Australia,2022,,28,,Waran,APC,28,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-113AS4 version,0.14,3.92,3.92
+Ukraine,United States,2022,,20,,M-142 HIMARS,self-propelled MRL,20,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,8.8,8.8
+Ukraine,Canada,2014,,39,?,Spartan,APC/APV,39,,2014; 2015,New,,0.16,6.24,6.24
+Ukraine,United States,2022,,400,?,AIM-7M Sparrow,BVRAAM,400,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for use with Ukrainian SAM systems; incl RIM-7 version,0.07,28.8,28.8
+Ukraine,Croatia,2022,,3,,Mi-8T,transport helicopter,3,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 1 Mi-8PS version,2.4,7.2,7.2
+Ukraine,unknown supplier(s),2023,,50,,M-113,APC,50,,2023,Second hand,Second-hand,0.1,5,5
+Ukraine,United Kingdom,2022,?,2,?,Challenger ARRV,ARV,2,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; delivery planned 2023,0.9,1.8,1.8
+Ukraine,France,2022,,50,?,FGM-148 Javelin,anti-tank missile,50,?,2022,Second hand,Second-hand; aid after Russian invasion of Ukraine,0.01,0.6,0.6
+Ukraine,Estonia,2021,,50,?,FGM-148 Javelin,anti-tank missile,50,?,2022,Second hand,Second-hand; aid,0.01,0.6,0.6
+Ukraine,United States,2022,,150,,HMMWV-UA,APV,150,?,2023,New,Aid after 2022 Russian invasion of Ukraine,0.13,19.5,19.5
+Ukraine,United Kingdom,2022,,60,?,Cougar,APC,60,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Mastiff and Wolfhound versions,0.14,8.4,8.4
+Ukraine,United Kingdom,2022,,85,,Spartan,APC,85,?,2022,Second hand,Second-hand; financed with private donations;  including Samaritan ambulance; Sultan command post and Samson ARV versions,0.1,8.5,8.5
+Ukraine,United Kingdom,2022,,6,,M-270 MLRS 227mm,self-propelled MRL,6,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.48,2.88,2.88
+Ukraine,United Kingdom,2022,,40,?,Spartan,APC,40,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; including Samaritan ambulance; Sultan command post and Samson ARV versions,0.1,4,4
+Ukraine,United Kingdom,2022,,14,,Spartan,APC,14,,2022,Second hand,Second-hand; financed with private donations; incl Sultan command post and Samaritan ambulance versions,0.1,1.4,1.4
+Ukraine,Slovakia,2022,,4,,Mi-17,transport helicopter,4,,2022,Second hand,Second-hand; financed by EU aid after 2022 Russian invasion of Ukraine; Mi-17M version,2.9,11.6,11.6
+Ukraine,Sweden,2023,,8,,Archer 155mm,self-propelled gun,8,,2023,New,Second-hand but never used; aid after 2022 Russian invasion of Ukraine,1.5,12,12
+Ukraine,Czechia,2022,,1,,T-72M1,tank,1,,2022,Second hand but modernized,Second-hand T-72M1 but modernized to T-72 Avenger before delivery; CZK25 m ($1 m) deal funded by private aid after 2022 Russian invasion of Ukraine,1.72,1.72,1.72
+Ukraine,Lithuania,2022,,25,?,Stinger,portable SAM,25,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,0.8,0.8
+Ukraine,United States,2023,,64,?,BATT,APC,16,,2023,New,Financed by FRG; from German production line,0.16,10.24,2.56
+Ukraine,Germany,2022,,120,,Marder-1A3,IFV,90,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.68,81.6,61.2
+Ukraine,France,2018,,14,?,AS-350/AS-550 Fennec,light helicopter,2,?,2023,New,Part of EUR555 m deal for 24 for non-military border guard role but 14 for military role after 2022 Russian invasion of Ukraine; H125 version,0.9,12.6,1.8
+Ukraine,Belgium,2022,,28,?,M-109A1 155mm,self-propelled gun,28,?,2022,Second hand,Second-hand; financed by UK aid after 2022 Russian invasion of Ukraine; M-109A4BE version,0.44,12.32,12.32
+Ukraine,Spain,2022,,25,?,MIM-23B HAWK,SAM,25,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for I-HAWK SAM systems,0.07,1.7,1.7
+Ukraine,Norway,2022,,8,,NASAMS-2,SAM system,2,,2022,New,Financed by US $1.4 b aid after 2022 Russian invasion of Ukraine,15,120,30
+Ukraine,United States,2022,,7000,?,M-982 Excalibur,guided shell,7000,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.02,112,112
+Ukraine,Turkiye,2023,,1,,Bayraktar TB2,armed UAV,1,,2023,New,Donated by producer,2.4,2.4,2.4
+Ukraine,France,2022,,18,,CAESAR 155mm,self-propelled gun,18,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,7.92,7.92
+Ukraine,United Kingdom,2022,,1800,?,Starstreak,SAM,1800,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Stormer HVM SAM system and portable launchers,0.04,64.8,64.8
+Ukraine,Germany,2022,,5,,PiPz-2 Dachs,AEV,5,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.8,4,4
+Ukraine,France,2022,,100,?,VT-1,SAM,100,?,2022,Second hand,Second-hand; aid; for Crotale-NG SAM systems,0.06,6,6
+Ukraine,Norway,2022,,160,,AGM-114 Hellfire,anti-tank missile,160,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Rb-17 (AIM-114C) version for coastal defence,0.02,2.56,2.56
+Ukraine,Italy,2022,,10,,LMV,APV,10,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.06,0.6,0.6
+Ukraine,Italy,2022,,60,?,M-109A1 155mm,self-propelled gun,60,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-109L version,0.44,26.4,26.4
+Ukraine,United States,2022,,16,?,MPQ-64 Sentinel,air search radar,4,?,2022,New,For use with 8 NASAMS SAM systems from Norway,5,80,20
+Ukraine,Spain,2022,,1,,Spada,SAM system,1,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,8,8,8
+Ukraine,United States,2022,,30,,K-6 120mm,mortar,30,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; M-120 version,0.1,3,3
+Ukraine,Germany,2022,,5,,M-270 MLRS 227mm,self-propelled MRL,5,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; MARS-2 version,0.48,2.4,2.4
+Ukraine,France,2022,,60,,VAB-VTT,APC,60,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.12,7.2,7.2
+Ukraine,unknown supplier(s),2023,,,,AIFV,IFV,1,?,2023,Second hand,,0.36,0,0.36
+Ukraine,Portugal,2023,,5,?,L-118 105mm,towed gun,5,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; designation uncertain (reported as '105mm guns'),0.24,1.2,1.2
+Ukraine,United Kingdom,2022,,50,?,AIM-120C AMRAAM,BVRAAM,50,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for NASAMS SAM systems,0.24,12,12
+Ukraine,United States,2022,,39,,vehicle engine,vehicle engine,39,?,2022,New,Caterpillar C-9 (450hp) diesel engine for 39 LAV-6 APC from Canada,0.08,3.12,3.12
+Ukraine,United States,2022,,450,?,HMMWV-UA,APV,450,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.05,23.4,23.4
+Ukraine,United Kingdom,2022,,3,,Sea King HAR-3,transport helicopter,3,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Sea King HU-5 version; for SAR,2.7,8.1,8.1
+Ukraine,United Kingdom,2022,,50,?,Brimstone-2,ASM,50,?,2022,New,Aid after 2022 Russian invasion of Ukraine,0.2,10,10
+Ukraine,Czechia,2022,,18,,One 150,UAV,7,,2023,New,Financed by aid from Germany after 2022 Russian invasion of Ukraine,0.2,3.6,1.4
+Ukraine,United States,2022,,250,?,AIM-120C AMRAAM,BVRAAM,250,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for NASAMS-2 SAM systems,0.24,60,60
+Ukraine,France,2022,,4,?,Crotale-NG,SAM system,4,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,4,16,16
+Ukraine,Poland,2022,,150,?,Warmate,loitering munition,150,?,2022,New,Aid after 2022 Russian invasion of Ukraine; incl some financed by Lithuania,0.06,9,9
+Ukraine,Poland,2022,,80,?,BMP-1,IFV,80,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.36,28.8,28.8
+Ukraine,Latvia,2022,,4,,Mi-17,transport helicopter,4,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 2 Mi-8MTV-1 version,2.9,11.6,11.6
+Ukraine,Germany,2023,,5,?,Luna-NG,UAV,5,?,2023,New,Aid after 2022 Russian invasion of Ukraine; delivery planned 2023,0.2,1,1
+Ukraine,United States,2022,,400,,M-113A3,APC,400,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 100 ambulance version,0.12,48,48
+Ukraine,United Kingdom,2022,,16,,Spartan,APC,16,,2023,Second hand,Second-hand; financed with private donations,0.1,1.6,1.6
+Ukraine,Finland,2022,,5,?,XA-180,APC,5,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; XA-185 version,0.12,0.6,0.6
+Ukraine,Canada,2022,,10,?,Titan,APC,10,?,2022,New,Probably aid after 2022 Russian invasion of Ukraine; Titan-S version,0.13,1.3,1.3
+Ukraine,Poland,2023,,200,,AMV,IFV,100,?,2023,New,Financed by EU and USA aid after 2022 Russian invasion of Ukraine; Rosomak version,1.7,340,170
+Ukraine,United Kingdom,2022,,820,?,GMLRS,guided rocket,820,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,26.24,26.24
+Ukraine,United States,2022,,2300,?,Phoenix Ghost,loitering munition,1800,?,2022; 2023,New,Aid after 2022 Russian invasion of Ukraine,0.15,345,270
+Ukraine,Morocco,2022,,90,,T-72B,tank,90,?,2022; 2023,Second hand,Second-hand (but modernized in Czechia before delivery); financed by Netherlands and USA as aid after 2022 Russian invasion of Ukraine (were in Czechia for modernization for Morocco diverted to Ukraine; possibly as sale via Czech company for USA and Netherlands aid to Ukraine or possibly delivered to Ukraine without permission from Morocco),1.04,93.6,93.6
+Ukraine,Czechia,2022,,22,?,T-55AM-2,tank,22,?,2022,Second hand,Second-hand; aid after 2022 Russian invasions of Ukraine,0.6,13.2,13.2
+Ukraine,United Kingdom,2023,,23,,Spartan,APC,23,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,2.3,2.3
+Ukraine,Italy,2022,,10,?,FH-70 155mm,towed gun,10,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,4,4
+Ukraine,Italy,2022,,20,?,M-113,APC,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,2,2
+Ukraine,United States,2022,,110,?,AGM-88 HARM,anti-radar missile,110,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.1,11,11
+Ukraine,United States,2022,,37,,Cougar,APC,37,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.14,5.18,5.18
+Ukraine,United States,2022,,1,,Patriot Configuration-3,SAM system,1,,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,22,22,22
+Ukraine,Czechia,2023,,15,,T-72M1,tank,15,?,2023,Second hand but modernized,Second-hand but modernized before delivery; financed by Denmark,1.72,25.74,25.74
+Ukraine,United Kingdom,2022,,300,?,LMM Martlet,anti-ship missile/ASM/SAM,300,?,2022,New,Aid after Russian invasion of Ukraine; for Stormer HVM SAM system and portable launchers,0.1,30,30
+Ukraine,United States,2022,,30,,M-992 FAASV,ALV,30,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.24,7.2,7.2
+Ukraine,United States,2022,,440,,MaxxPro,APC,440,,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; incl 40 mine-clearing version,0.13,56.32,56.32
+Ukraine,United States,2022,,234,?,MaxxPro,APC,234,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.13,29.95,29.95
+Ukraine,United States,2022,,20,,MMR,multi-role radar,10,?,2023,New,Aid after 2022 Russian invasion of Ukraine,6.5,130,65
+Ukraine,France,2022,,15,?,TR-F-1 155mm,towed gun,15,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.38,5.7,5.7
+Ukraine,Czechia,2022,,20,?,T-72M1,tank,20,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,1.04,20.8,20.8
+Ukraine,Czechia,2022,,56,?,BMP-1,IFV,56,?,2022,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; Pbv-501A version,0.36,20.16,20.16
+Ukraine,Italy,2022,,2,,X-TAR,air search radar,1,,2023,New,For use with GDM-008 Mk-1 anti-aircraft guns (part of Skyshield-35 (Skynex) air defence systems); financed by German aid,5,10,5
+Ukraine,United Kingdom,2023,,400,?,ASRAAM,BVRAAM,300,?,2022; 2023,Second hand,Second-hand; for use as SAM,0.07,28.8,21.6
+Ukraine,Germany,2022,,1000,?,IRIS-T SLM,SAM,500,?,2022; 2023,New,For IRIS-T SL SAM system,0.4,400,200
+Ukraine,United States,2022,,250,?,AIM-120C AMRAAM,BVRAAM,200,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for NASAMS-2 SAM systems,0.24,60,48
+Ukraine,United States,2022,,13500,?,FGM-148 Javelin,anti-tank missile,13000,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.01,162,156
+Ukraine,Turkiye,2023,,,?,Cobra-2,APC,20,?,2023,New,,0.25,0,5
+Ukraine,Germany,2023,,8,?,TRML-4D,air search radar,8,?,2023,New,Aid after 2022 Russian invasion of Ukraine,12,96,96
+Ukraine,Turkiye,2022,,200,?,Kirpi,APC,92,?,2022; 2023,Second hand,Second-hand,0.14,28,12.88
+Ukraine,Canada,2022,,39,,Piranha LAV-6,APC,39,?,2022,New,Aid after 2022 Russian invasion of Ukraine; ASCV-TCV version,0.37,14.43,14.43
+Ukraine,France,2023,,6,,CAESAR 155mm,self-propelled gun,6,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.44,2.64,2.64
+Ukraine,France,2023,,90,?,Storm Shadow/SCALP-EG,ASM,50,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; delivery planned 2023-2024,0.26,23.04,12.8
+Ukraine,United States,2023,,,,JDAM-ER,guided glide bomb,1500,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.04,0,60
+Ukraine,Spain,2023,?,3,,BMR-600,APC,1,,2023,Second hand,Second-hand; ambulance version; aid after 2022 Russian invasion of Ukraine,0.12,0.36,0.12
+Ukraine,France,2022,,4,,M-270 MLRS 227mm,self-propelled MRL,4,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; LRU version,0.48,1.92,1.92
+Ukraine,Slovakia,2023,,30,?,3M9,SAM,30,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; for Kvadrat SAM system,0.05,1.44,1.44
+Ukraine,United States,2023,,18,,M-60 AVLB,armoured bridgelayer,18,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.4,7.2,7.2
+Ukraine,Czechia,2022,,75,?,BMP-1,IFV,75,?,2022; 2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine; BVP-1 version,0.36,27,27
+Ukraine,Czechia,2023,,2,,Kvadrat,SAM system,2,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,7,14,14
+Ukraine,Slovakia,2022,?,16,,Zuzana-2,self-propelled gun,2,,2023,New,EUR93 m deal; financed by Denmark; Germany and Norway as aid after 2022 Russian invasion of Ukraine; delivery planned 2023-2024,1.32,21.12,2.64
+Ukraine,Slovakia,2022,,8,,Zuzana-2,self-propelled gun,8,,2022; 2023,New,,1.32,10.56,10.56
+Ukraine,Latvia,2022,?,20,?,Stinger,portable SAM,20,?,2023,Second hand,Second-hand; aid after 2022 Russian invasion of Ukraine,0.03,0.64,0.64
